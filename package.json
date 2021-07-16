@@ -1,0 +1,15 @@
+{
+  "name": "mountebank-demo",
+  "version": "1.0.0",
+  "description": "demo of mountebank",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "pramod tewarie",
+  "license": "ISC",
+  "dependencies": {
+    "mountebank": "^2.4.0",
+    "node-fetch": "^2.6.1"
+  }
+}
